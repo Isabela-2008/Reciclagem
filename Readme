@@ -1,0 +1,68 @@
+# 🌎 Projeto Educativo: Coleta Seletiva
+
+Este projeto foi desenvolvido para a Feira de Ciências com o objetivo de conscientizar sobre a importância da separação correta dos resíduos recicláveis. Ele contém:
+
+- Uma **página inicial** explicando os tipos de lixo e lixeiras.
+- Um **jogo interativo** onde o usuário arrasta os resíduos até a lixeira correta.
+- Uma **página educativa** com dicas sobre descarte correto e **mapas de locais reais** para descarte na região.
+
+## 📂 Estrutura do Projeto
+
+projeto-coleta-seletiva/
+├── index.html # Página Inicial
+├── jogo.html # Joguinho da Reciclagem
+├── descarte.html # Informações sobre descarte correto + Google Maps
+├── imagens/ # Pasta com todas as imagens utilizadas
+│ ├── lixeiraAZUL.jpg
+│ ├── medicamentos.jpg
+│ └── ...
+└── style.css # (Opcional) CSS separado se for modularizado
+
+bash
+Copiar
+Editar
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-coleta-seletiva.git
+Abra o arquivo index.html em um navegador.
+
+Também é possível publicar o site gratuitamente em plataformas como Netlify, Vercel ou Render.
+
+🧠 Objetivo Educacional
+Ensinar, de forma lúdica e visual, os princípios da coleta seletiva e os benefícios do descarte correto de resíduos sólidos.
+
+Feito com HTML, CSS e amor por um planeta mais limpo 💚
+
+yaml
+Copiar
+Editar
+
+---
+
+## ✅ `enunciado.md`
+
+```markdown
+# Enunciado do Projeto — Feira de Ciências
+
+**Tema:** Coleta Seletiva e Sustentabilidade
+
+**Objetivo:** Criar um site educativo e interativo que ensine as pessoas a separar corretamente os resíduos recicláveis, utilizando uma linguagem acessível e visual.
+
+**Requisitos:**
+- Uma página inicial com explicações sobre os tipos de resíduos e as cores das lixeiras.
+- Um jogo simples onde o usuário deve arrastar resíduos até a lixeira correta.
+- Uma página de instrução sobre o descarte correto de eletrônicos, medicamentos e embalagens.
+- Inserção de mapas interativos com locais reais de descarte na região de São José/Florianópolis.
+
+**Tecnologias Utilizadas:**
+- HTML5
+- CSS3
+- JavaScript (para interação do jogo)
+- Google Maps (incorporado via iframe)
+
+**Público-alvo:** Alunos e visitantes da Feira de Ciências.
+
+**Entrega final:** Site hospedado + repositório no GitHub com os arquivos organizados.
