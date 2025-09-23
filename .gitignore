@@ -1,0 +1,28 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários e de backup
+*.tmp
+*.bak
+*.swp
+
+# Configurações de editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Imagens geradas automaticamente (se houver)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Arquivos de deploy (se usar FTP ou similar)
+ftp-config.json
+.env
